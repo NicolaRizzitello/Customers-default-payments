@@ -1,4 +1,4 @@
-# [SVM-Application](https://github.com/NicolaRizzitello/SVM-Application/blob/main/RizzitelloSVM.ipynb)
+# [Customers Default Payments](https://github.com/NicolaRizzitello/SVM-Application/blob/main/RizzitelloSVM.ipynb)
 In this project I used the support vector machine to see how many customers are not in default and how many are in default
 
 **Languages**
